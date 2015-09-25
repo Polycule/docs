@@ -1,4 +1,4 @@
-The benevolent dictator of this document is Ron Gross
+The benevolent dictator of this document is [Ron Gross](https://github.com/ripper234)
 
 ---
 
