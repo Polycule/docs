@@ -5,10 +5,10 @@ The benevolent dictator of this document is [Ron Gross](https://github.com/rippe
 Polycule Core Values
 ====================
 These values are presented in an arbitrary order.
-They are not a script of our ethical behaviour; rather they represent some of the things we can about.
-These values pertain to the apps we build, physical and digital spaces we provide, and our own work culture.
+They are not a script of our ethical behaviour; rather they represent some of the things we care about.
+These values pertain to the apps we build, physical and digital spaces we create, and our own work culture.
 
-Pull requests welcome!
+**Pull requests welcome!**
 
 If you have a suggestion, an idea, or found an issue with these values, please speak up.
 You can use any channel you want, from github issues and pull requests, to calling our office number (when we get one), shouting at us, and telling us we are idiots.
@@ -16,32 +16,32 @@ You can use any channel you want, from github issues and pull requests, to calli
 1. Radical Honesty and Transparency
 -----------------------------------
 We will not lie, and will aim to be as transparent as possible.
-This means being upfront and open about our business model, revenue sources, affiliations, partners and investors and management team.
+This means being upfront and open about our business model, revenue sources, affiliations, partners, investors and management team.
 There is a balance to be held between transparency, and personal and business boundaries.
 We will default to "everything is open unless there is a good reason". If there is a reason not to be open, we will be as open as possible under the circumstances.
 
 2. Responsibility and Awareness
 -------------------------------
 We will strive to increase our awareness to anything pertaining our business, and the people it affects.
-If we fuck up, we will own up to our failures.
+If we fuck up, we will own up to our failures ("own your shit").
 This means admitting them, and taking corrective actions.
 
 3. Radical Inclusion 
 --------------------
-Much like in Burning Man, we want everybody to welcome in our community.
-We will actively work to create applications, social environments and digital and physical spaces which are non-judgemental and cnosiderate.
+Much like in Burning Man, we want everybody to welcome in our community and work enviornment.
+We will actively work on being non-judgemental and considerate, and allow everyone the space they need.
 
 4. Civic Behaviour
 ------------------
 We will play nice with other entities, be they customers, press, regulators, or competitors.
 We recognize that We Are All One. When we disagree with someone, we will try to respect their opinions, needs and behave ethically.
-We are not in a cut-throat game of "let's kill of all other dating sites", but are rather working to carve up a nieche for us, and fulfill the needs of our customers and users.
+We are not in a cut-throat game of "let's kill all other competitors", but are rather working to carve up a nieche for us, and fulfill the needs of our customers and users.
 
 5. Excellence
 -------------
 We will, each as an individual, and together as a company, aim for mastery of our domain.
 We recognize that mastery is a process, not a goal.
-We are committed to this process, of being better, each at their own field.
+We are committed to this process, of becoming better, each at our own fields.
 
 We will settle for "Good Enough", but never for mediocrity.
 We aim to build an excellent platform, to provide a unique, wonderful experience to our users and customers, using the state of the art in developer tools, communication platforms, people we recruit and connections we make.
@@ -54,15 +54,15 @@ However, we will not succumb to the illusion "unless you can measure it, it is m
 Some things are impossible or impractical to measure, and we allow room for that in our work methodology.
 
 6. Listening
--=----------
+------------
 We will listen, be open to, and encourage, input and feedback.
 Active listening can help us avoid tunnel vision and expand our awareness.
 Sometimes, we just don't know what to do, and instead of trying to come up with a solution, we should just pause and listen.
 
 7. We Aim Big
 -------------
-We care about making a dent, a positive impact in the world.
-We are not here to make a difference in the lives of tens of people.
+We care about making a dent, a positive impact on the world.
+We are not here to make a difference in the lives of hundreds of people.
 Rather, we would like to help millions of people.
 We believe we have the capacity to make a difference, or at least give it a solid attempt.
 
@@ -79,7 +79,7 @@ We belivee that positive thinking leads to positive energy and results.
 ------------------------
 We can be serious ... but we can smile :)
 And kid. And make jokes.
-You should expect yearly April Fools jokes from us ... not because we want to amuse you, but because it's so damned funny :)
+You should expect yearly April Fools jokes from us ... not because we want to amuse you, but because it's so damn funny :)
 We'll plant easter eggs in our product, kid around in our internal chatrooms, make fun of each other ... and sometimes even of you.
 
 We ask for your understanding... you are invited to make fun of us too! ^_~
@@ -88,7 +88,7 @@ We ask for your understanding... you are invited to make fun of us too! ^_~
 ----------------------
 We want to look at all the factors, and reach sustainable solutions which balance the needs and wnats of everyone involved.
 We want a good, healthy work-life balance.
-We want to balance our need to make money of this project, with the needs of our users and customers.
+We want to balance our need to make money of our projects, with the needs of our users and customers.
 When we notice an extreme, this is a good sign we should ask ourselves "aren't we going too far here?" and "is this balanced, are the needs of everyone involved being considered?"
 
  ... we don't want to work too much or too little, we want to have time for other activities, but also enough time for work. 
